@@ -50,3 +50,6 @@ The entire data set contains information on 1,756 directors from these 200 compa
 #### Original Journal Article
 
 The original journal article is contained in the repository [here](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/docs/gender_diversity_board.pdf).
+
+#### Group Work Repository
+The group's work is being compiled in a google drive available [here](https://drive.google.com/drive/folders/1_n-mF__L9hZWS4iPIMkWoR7pBW6bAYnt).
