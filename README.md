@@ -15,12 +15,12 @@ In light of these considerations, we embarked on a comprehensive study, focusing
 
 #### Main Aims of the Study
 
-- Is there any evidence of a gender pay gap among the directors? 
-- Are there any firm-level factors that affect the total compensation of directors? 
-- Is there any evidence of higher director compensation for firms with higher percentages of female board members? 
-- Are there any non-linear effects? 
-- What is the most suitable model based on the data given? 
-- Are there any limitations of your regression model and possible improvements?
+1. [Is there any evidence of a gender pay gap among the directors?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q1.ipynb)
+2. [Are there any firm-level factors that affect the total compensation of directors?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q2.ipynb)
+3. [Is there any evidence of higher director compensation for firms with higher percentages of female board members?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q3.ipynb)
+4. [Are there any non-linear effects?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q4.ipynb)
+5. [What is the most suitable model based on the data given?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q5.ipynb)
+6. [Are there any limitations of your regression model and possible improvements?](https://github.com/AndrewFerris/mbs_da_assessment_2/blob/main/analysis/main_aim_q6.ipynb)
 
 #### Data Decriptions
 
